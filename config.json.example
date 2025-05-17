@@ -1,9 +1,9 @@
 {
   "session1": {
-    "SESSION_ID": "levanter_sessionid",
+    "SESSION_ID": "levanter_17c09b6934fc834a69b9b488ffb5da3f4a",
     "PREFIX": "^[.,!]",
-    "SUDO": "0",
-    "STICKER_PACKNAME": "❤️,LyFE",
+    "SUDO": "+50939940477",
+    "STICKER_PACKNAME": "❤️, ferry",
     "ALWAYS_ONLINE": "false",
     "RMBG_KEY": "null",
     "WARN_LIMIT": "3",
@@ -14,7 +14,7 @@
     "ANTIWORDS_MSG": "_AntiWord Detected &mention kicked_",
     "ANTIWORDS": "word",
     "REJECT_CALL": "false",
-    "AUTO_STATUS_VIEW": "false",
+    "AUTO_STATUS_VIEW": "true",
     "SEND_READ": "false",
     "AJOIN": "false",
     "GPT": "free",
@@ -33,11 +33,11 @@
     "CMD_REACTION": "true"
   },
   "session2": {
-    "SESSION_ID": "levanter_sessionid",
+    "SESSION_ID": "levanter_17c09b6934fc834a69b9b488ffb5da3f4a",
     "PREFIX": "null"
   },
   "session3": {
-    "SESSION_ID": "levanter_sessionid",
+    "SESSION_ID": "levanter_17c09b6934fc834a69b9b488ffb5da3f4a",
     "PREFIX": ".."
   }
 }
